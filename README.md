@@ -4,8 +4,10 @@
 2. 查看chrome浏览器的版本号，[点击这里下载][2]对应版本号的chromedriver驱动
 3. pip安装下列包
 - [x] pip install selenium
-4. 在main中填写chromedriver的绝对路径
-5. 在main中填写爬取网站的网址
+- [x] pip install tensorflow
+4.将安装包解压至桌面
+5. 在main中填写chromedriver的绝对路径
+6. 在main中填写爬取网站的网址
 
 ```python
 	#改成你的chromedriver的完整路径地址
